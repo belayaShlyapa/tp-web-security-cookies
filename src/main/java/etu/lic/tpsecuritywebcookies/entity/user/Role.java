@@ -1,4 +1,4 @@
-package etu.lic.tpsecuritywebcookies.user;
+package etu.lic.tpsecuritywebcookies.entity.user;
 
 public enum Role {
     ADMIN,
